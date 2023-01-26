@@ -7,7 +7,7 @@
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Meichl&show_icons=true&theme=radical"
+  srcset="https://github-readme-stats.vercel.app/api?username=Meichl&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
@@ -17,4 +17,4 @@
 <img widht ="42%" src="https://github-readme-stats.vercel.app/api?username=Meichl&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meichl&theme=radical)](https://github.com/Meichl/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meichl&theme=dark)](https://github.com/Meichl/github-readme-stats)
