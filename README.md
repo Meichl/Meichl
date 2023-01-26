@@ -18,6 +18,6 @@
 </picture>
 
 <div>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meichl&theme=dark">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meichl&theme=dark>
 </div>
           
