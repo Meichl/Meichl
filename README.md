@@ -14,7 +14,14 @@
   srcset="https://github-readme-stats.vercel.app/api?username=Meichl&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img widht ="42%" src="https://github-readme-stats.vercel.app/api?username=Meichl&show_icons=true" />
+<img widht ="40%" src="https://github-readme-stats.vercel.app/api?username=Meichl&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meichl&theme=dark)](https://github.com/Meichl/github-readme-stats)
+<div>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meichl&theme=dark">
+</div>
+
+<div>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+</div>
+          
