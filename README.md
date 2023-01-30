@@ -1,6 +1,6 @@
 <div>
-  <img height="280em" src="https://github-readme-stats.vercel.app/api?username=Meichl&theme=dark">
-  <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meichl&theme=dark">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Meichl&theme=dark">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meichl&theme=dark">
 </div>
           
 ## Olá! Me chamo Michel 👋
