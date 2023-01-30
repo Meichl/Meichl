@@ -11,7 +11,7 @@
 </picture>
 
 <div>
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meichl&theme=dark">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meichl&theme=dark">
 </div>
           
 ## Olá! Me chamo Michel 👋
