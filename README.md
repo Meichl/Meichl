@@ -7,5 +7,4 @@
 
 
 - 🔭 Estudando engenharia da computação
-- 🌱 Estudando JavaScript
-- 😄 Pronouns: ele/dele
+- 🌱 Estudando Java
