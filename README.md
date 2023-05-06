@@ -3,7 +3,7 @@
   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meichl&theme=dark">
 </div>
           
-## Olá! Me chamo Michel 👋
+## Hello, there! 👋
 
 
 - 🔭 Estudando engenharia da computação
