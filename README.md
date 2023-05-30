@@ -3,8 +3,6 @@
   <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meichl&theme=dark">
 </div>
           
-## Hello, there! 👋
-
-
-- 🔭 Estudando engenharia da computação
-- 🌱 Estudando Java
+🌎🪐
+Programmer spectrum
+☕️🖋
