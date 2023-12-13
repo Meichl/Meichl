@@ -4,5 +4,5 @@
 </div>
           
 🌎🪐
-Programmer spectrum
+
 ☕️🖋
