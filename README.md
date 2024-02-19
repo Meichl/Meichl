@@ -5,4 +5,4 @@ ________________________________________________________________________________
   <img height="231em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meichl&theme=onedark">
 </div>
           
-[!NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+[!csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
