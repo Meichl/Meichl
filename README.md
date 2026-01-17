@@ -4,7 +4,7 @@
 
 🔭 Currently working on...  
 
-- Projects with Python and C#  
+- Projects with Python, PHP and C#.  
 - Enhancing my full-stack development skills  
 
 👯 Looking to collaborate on...  
